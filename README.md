@@ -43,6 +43,7 @@ This Python project uses **Mediapipe**, **OpenCV**, and **PyAutoGUI** to map fin
 
 pip install opencv-python mediapipe pyautogui
 
+
 3.Run the script:
 
 python app.py
